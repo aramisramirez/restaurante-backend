@@ -1,1 +1,8 @@
 .vscode/*
+/bin/
+/obj/
+/publish/
+/.vs/
+*.user
+*.suo
+*.zip
